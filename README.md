@@ -15,7 +15,7 @@ A simple To-Do List application built using React. It allows users to add, delet
 
 ## 🖼️ Demo
 
-[Live Site]([https://reactjs.org/])
+[Live Site](https://lucide.dev/)
 
 ---
 
