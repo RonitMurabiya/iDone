@@ -1,3 +1,83 @@
+# 📝 React To-Do List App
+
+A simple and responsive To-Do List application built using React. It allows users to add, delete, and mark tasks as completed, helping you stay organized and productive.
+
+---
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- ❌ Delete tasks
+- ✔️ Mark tasks as complete/incomplete
+- 💾 Persistent state (optional: via localStorage)
+- 📱 Responsive design
+
+---
+
+## 🖼️ Demo
+
+> _Add a screenshot or a link to a live demo if available_
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- HTML & CSS (or Tailwind/Bootstrap if you used them)
+- JavaScript (ES6+)
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/todo-list-react.git
+   cd todo-list-react
+2. **Install dependencies:**
+   ```bash
+   npm install
+3. **Start the development server:**
+   ```bash
+   npm start
+4. **Open your browser at http://localhost:5173**
+
+## 📁 Folder Structure
+
+```
+todo-list-react/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── TodoItem.js
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+└── package.json
+```
+
+
+## 🙌 Acknowledgments
+
+- React documentation
+- Icons from [FontAwesome](https://fontawesome.com/)
+- YouTube tutorials and blog guides
+---
+
+## ✨ Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📬 Contact
+
+For questions or feedback, reach out to [your-email@example.com](mailto:your-email@example.com)
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
