@@ -1,6 +1,6 @@
-# 📝 React To-Do List App
+# 📝 iDone - Manage your all Todo list
 
-A simple and responsive To-Do List application built using React. It allows users to add, delete, and mark tasks as completed, helping you stay organized and productive.
+A simple To-Do List application built using React. It allows users to add, delete, and mark tasks as completed, helping you stay organized and productive.
 
 ---
 
@@ -9,14 +9,13 @@ A simple and responsive To-Do List application built using React. It allows user
 - ✅ Add new tasks
 - ❌ Delete tasks
 - ✔️ Mark tasks as complete/incomplete
-- 💾 Persistent state (optional: via localStorage)
 - 📱 Responsive design
 
 ---
 
 ## 🖼️ Demo
 
-> _Add a screenshot or a link to a live demo if available_
+
 
 ---
 
@@ -60,19 +59,19 @@ todo-list-react/
 ## 🙌 Acknowledgments
 
 - React documentation
-- Icons from [FontAwesome](https://fontawesome.com/)
+- Icons from [lucide-react](https://lucide.dev/)
 - YouTube tutorials and blog guides
 ---
 
 ## ✨ Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue to discuss what you would like to change.
 
 ---
 
 ## 📬 Contact
 
-For questions or feedback, reach out to [your-email@example.com](mailto:your-email@example.com)
+For questions or feedback, reach out to [your-ronitmurabiya1906@gmail.com](mailto:ronitmurabiya1906@gmail.com)
 
 
 
